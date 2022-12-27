@@ -1,0 +1,48 @@
+.container{
+    display: flex;
+    justify-content: center;
+    margin-top: 8rem;}
+
+.container1{
+    margin: 2rem;
+}
+
+.text{
+    font-family: Montserrat;
+    opacity: 0.7;
+    letter-spacing: 2px;
+}
+
+.head{
+    font-family: Fraunces;
+    font-weight: 700;
+}
+
+.sub{
+    font-family: Montserrat;
+    opacity: 0.7;
+}
+
+.rate{
+    color: hsl(158, 36%, 37%);
+}
+
+.pack{
+    display: flex;
+    margin-top: 1.5rem;
+}
+
+.small{
+    margin: 14px;
+    margin-left: 25px;
+}
+
+.btn{
+    margin-top: 1.5rem;
+    width: 100%;
+}
+
+.mob{
+    display: none;
+}
+
